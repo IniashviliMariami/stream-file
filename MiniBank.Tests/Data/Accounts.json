@@ -1,0 +1,66 @@
+[
+  {
+    "Id": 1,
+    "Iban": "GE94SB5621487456325158",
+    "Currency": "GEL",
+    "Balance": 7212.12,
+    "CustomerId": 1,
+    "Name": "Deposit account"
+  },
+  {
+    "Id": 2,
+    "Iban": "GE94SB5621487456325158",
+    "Currency": "USD",
+    "Balance": 0.00,
+    "CustomerId": 1,
+    "Name": ""
+  },
+  {
+    "Id": 3,
+    "Iban": "GE94SB5621487456325158",
+    "Currency": "EUR",
+    "Balance": 0.00,
+    "CustomerId": 1,
+    "Name": ""
+  },
+  {
+    "Id": 4,
+    "Iban": "GE90SB5621487456385159",
+    "Currency": "GEL",
+    "Balance": 100000.00,
+    "CustomerId": 2,
+    "Name": ""
+  },
+  {
+    "Id": 5,
+    "Iban": "GE90SB5621487456385159",
+    "Currency": "EUR",
+    "Balance": 35974.00,
+    "CustomerId": 2,
+    "Name": ""
+  },
+  {
+    "Id": 6,
+    "Iban": "GE94SB5621487456325151",
+    "Currency": "GEL",
+    "Balance": 0.00,
+    "CustomerId": 1,
+    "Name": ""
+  },
+  {
+    "Id": 7,
+    "Iban": "GE94SB5621487456325151",
+    "Currency": "GEL",
+    "Balance": 0.00,
+    "CustomerId": 1,
+    "Name": ""
+  },
+  {
+    "Id": 8,
+    "Iban": "GE94SB5621487456325151",
+    "Currency": "GEL",
+    "Balance": 0.00,
+    "CustomerId": 1,
+    "Name": ""
+  }
+]
